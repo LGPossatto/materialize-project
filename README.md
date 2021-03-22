@@ -1,4 +1,4 @@
 # materialize-project
 A mini project made with Materialize
-
-*font-awesome icons don't work anymore
+##### Link => https://pizzariamat.netlify.app/
+##### Source => https://www.youtube.com/watch?v=MaP3vO-vEsg
